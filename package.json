@@ -1,0 +1,20 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "This is Requset Header Parser Microservice ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.18.1"
+  },
+  "author": "Giorgi Botchorishvili (Sovera)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S0vera/Request-Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/S0vera/Request-Header-Parser-Microservice#readme"
+}
